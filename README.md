@@ -1,8 +1,3 @@
-https://www.linkedin.com/in/raoni-sporteman/
-
-
-
-
 <h1 align="center">Hi 👋, I'm Raoni</h1>
 <h3 align="center">A passionate full cycle developer from Brazil</h3>
 
